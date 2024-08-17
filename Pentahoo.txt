@@ -1,0 +1,7 @@
+1) 	servidor: --> localhost
+	BD: Nombre
+	Puerto: 3306
+	Us: root
+	Pws: clave
+
+./spoon.sh para arrancar

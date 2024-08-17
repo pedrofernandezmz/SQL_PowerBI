@@ -1,0 +1,40 @@
+KETTLE
+HOP
+|
+----> Son distintos (solo llegan a ETL)
+
+PENTAHO
+
+---------------
+POWER Bi --> permite todos los procesos
+Cumple funciones de las anteriores
+Solo Windows
+
+----------------
+Proyecto final de los servicios
+Demostrar el modelo
+Elaborar visualización
+
+Power bi o kettle
+Pasos hasta llegar al esquema con implementación de la visualización
+
+Kettle para ETL
+Power Bi para la visualización
+-----------------
+Trabajo Final --> Servicios Telefonia
+Que indicadores presentar?
+
+#############################################
+
+Base de Datos Servicios
+
+	1- Cargar BD Servicios.sql
+	
+	2- Realizar procedimiento Hefesto (Kettle o Power Bi)
+	
+	3- Analizar tablas a transformar para DW
+		
+	4- Realizar informe desde PowerBI
+	
+	5- Realizar informe word para presentar
+
